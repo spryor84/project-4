@@ -1,0 +1,244 @@
+[
+    {
+        "name": "3M",
+        "market": "NYSE",
+        "symbol": "MMM",
+        "sector": "Conglomerate",
+        "since": "1976-08-09",
+        "type": "as Minnesota Mining and Manufacturing"
+    },
+    {
+        "name": "American Express",
+        "market": "NYSE",
+        "symbol": "AXP",
+        "sector": "Financial services",
+        "since": "1982-08-30",
+        "type": ""
+    },
+    {
+        "name": "Apple",
+        "market": "NASDAQ",
+        "symbol": "AAPL",
+        "sector": "Information technologies",
+        "since": "2015-03-19",
+        "type": ""
+    },
+    {
+        "name": "Boeing",
+        "market": "NYSE",
+        "symbol": "BA",
+        "sector": "Aerospace and defense",
+        "since": "1987-03-12",
+        "type": ""
+    },
+    {
+        "name": "Caterpillar",
+        "market": "NYSE",
+        "symbol": "CAT",
+        "sector": "Construction and mining equipment",
+        "since": "1991-05-06",
+        "type": ""
+    },
+    {
+        "name": "Chevron",
+        "market": "NYSE",
+        "symbol": "CVX",
+        "sector": "Oil & gas",
+        "since": "2008-02-19",
+        "type": "also 1930-07-18 to 1999-11-01"
+    },
+    {
+        "name": "Cisco Systems",
+        "market": "NASDAQ",
+        "symbol": "CSCO",
+        "sector": "Information technologies",
+        "since": "2009-06-08",
+        "type": ""
+    },
+    {
+        "name": "Coca-Cola",
+        "market": "NYSE",
+        "symbol": "KO",
+        "sector": "Food",
+        "since": "1987-03-12",
+        "type": "also 1932-05-26 to 1935-11-20"
+    },
+    {
+        "name": "DowDuPont",
+        "market": "NYSE",
+        "symbol": "DWDP",
+        "sector": "Chemical industry",
+        "since": "2017-09-01",
+        "type": "Essentially",
+        "weighting method": " as continuation of E.I. du Pont de Nemours & Company's appearance since 1935-11-20",
+        "website": " but officially a new company due to its merger with Dow Chemical Company on the same day.[6]"
+    },
+    {
+        "name": "ExxonMobil",
+        "market": "NYSE",
+        "symbol": "XOM",
+        "sector": "Oil & gas",
+        "since": "1928-10-01",
+        "type": "as Standard Oil of New Jersey"
+    },
+    {
+        "name": "Goldman Sachs",
+        "market": "NYSE",
+        "symbol": "GS",
+        "sector": "Financial services",
+        "since": "2013-09-20",
+        "type": ""
+    },
+    {
+        "name": "The Home Depot",
+        "market": "NYSE",
+        "symbol": "HD",
+        "sector": "Retail",
+        "since": "1999-11-01",
+        "type": ""
+    },
+    {
+        "name": "IBM",
+        "market": "NYSE",
+        "symbol": "IBM",
+        "sector": "Information technologies",
+        "since": "1979-06-29",
+        "type": "also 1932-05-26 to 1939-03-04"
+    },
+    {
+        "name": "Intel",
+        "market": "NASDAQ",
+        "symbol": "INTC",
+        "sector": "Information technologies",
+        "since": "1999-11-01",
+        "type": ""
+    },
+    {
+        "name": "Johnson & Johnson",
+        "market": "NYSE",
+        "symbol": "JNJ",
+        "sector": "Pharmaceuticals",
+        "since": "1997-03-17",
+        "type": ""
+    },
+    {
+        "name": "JPMorgan Chase",
+        "market": "NYSE",
+        "symbol": "JPM",
+        "sector": "Financial services",
+        "since": "1991-05-06",
+        "type": ""
+    },
+    {
+        "name": "McDonald's",
+        "market": "NYSE",
+        "symbol": "MCD",
+        "sector": "Food",
+        "since": "1985-10-30",
+        "type": ""
+    },
+    {
+        "name": "Merck & Company",
+        "market": "NYSE",
+        "symbol": "MRK",
+        "sector": "Pharmaceuticals",
+        "since": "1979-06-29",
+        "type": ""
+    },
+    {
+        "name": "Microsoft",
+        "market": "NASDAQ",
+        "symbol": "MSFT",
+        "sector": "Information technologies",
+        "since": "1999-11-01",
+        "type": ""
+    },
+    {
+        "name": "Nike",
+        "market": "NYSE",
+        "symbol": "NKE",
+        "sector": "Apparel",
+        "since": "2013-09-20",
+        "type": ""
+    },
+    {
+        "name": "Pfizer",
+        "market": "NYSE",
+        "symbol": "PFE",
+        "sector": "Pharmaceuticals",
+        "since": "2004-04-08",
+        "type": ""
+    },
+    {
+        "name": "Procter & Gamble",
+        "market": "NYSE",
+        "symbol": "PG",
+        "sector": "Consumer goods",
+        "since": "1932-05-26",
+        "type": ""
+    },
+    {
+        "name": "Travelers",
+        "market": "NYSE",
+        "symbol": "TRV",
+        "sector": "Insurance",
+        "since": "2009-06-08",
+        "type": ""
+    },
+    {
+        "name": "UnitedHealth Group",
+        "market": "NYSE",
+        "symbol": "UNH",
+        "sector": "Managed health care",
+        "since": "2012-09-24",
+        "type": ""
+    },
+    {
+        "name": "United Technologies",
+        "market": "NYSE",
+        "symbol": "UTX",
+        "sector": "Conglomerate",
+        "since": "1939-03-14",
+        "type": "as United Aircraft"
+    },
+    {
+        "name": "Verizon",
+        "market": "NYSE",
+        "symbol": "VZ",
+        "sector": "Telecommunication",
+        "since": "2004-04-08",
+        "type": ""
+    },
+    {
+        "name": "Visa",
+        "market": "NYSE",
+        "symbol": "V",
+        "sector": "Information technologies",
+        "since": "2013-09-20",
+        "type": ""
+    },
+    {
+        "name": "Walmart",
+        "market": "NYSE",
+        "symbol": "WMT",
+        "sector": "Retail",
+        "since": "1997-03-17",
+        "type": ""
+    },
+    {
+        "name": "Walgreens Boots Alliance",
+        "market": "NASDAQ",
+        "symbol": "WBA",
+        "sector": "Retail",
+        "since": "2018-06-26",
+        "type": ""
+    },
+    {
+        "name": "Walt Disney",
+        "market": "NYSE",
+        "symbol": "DIS",
+        "sector": "Broadcasting and entertainment",
+        "since": "1991-05-06",
+        "type": ""
+    }
+]
